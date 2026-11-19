@@ -18,7 +18,7 @@ next launch is stock.
 ## Build
 
 ```bat
-git clone --recursive https://github.com/<you>/ldbwatch
+git clone --recursive https://github.com/landonlats/ldb
 cd ldbwatch
 build.bat
 ```
